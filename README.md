@@ -1,11 +1,11 @@
 # FBcmd4J
-<br>Uso de Facebook desde linea de comando</br>
+    <br>Uso de Facebook desde linea de comando</br>
 
 a.	Instalación
-Descargar JAR y ejecutar por linea de comando "java -jar fbcmj4.jar"
+    <br>Descargar JAR y ejecutar por linea de comando "java -jar fbcmj4.jar"</br>
 
 b.	Uso
-    Importar clases a eclipse
+    <br>Importar clases a eclipse</br>
 
 c.	Créditos
 
