@@ -1,9 +1,9 @@
 package fbcmj4;
-/* Como la aplicación se conecta con una aplicación creada en Facebook Developer, de esta pádina es donde vamos a tomar:
+/* Como la aplicaciÃ³n se conecta con una aplicaciÃ³n creada en Facebook Developer, de esta pÃ¡dina es donde vamos a tomar:
  * App Secret
  * AccesToken
  * AppID
- * Como se conecta directamente con esta aplicación, no es necesario pedirlos y podemos tener los datos estaticos
+ * Como se conecta directamente con esta aplicaciÃ³n, no es necesario pedirlos y podemos tener los datos estaticos
  */
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ public class SettingsManager {
 
 	
 	public static String getAppSecret() {
-		return "7c7b34c925680a4f83b2b974a89b59c6";
+		return "";
 	}
 	
 	public static String getAccessToken() {
