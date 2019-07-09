@@ -11,7 +11,7 @@ public class SettingsManager {
 
 	
 	public static String getAppSecret() {
-		return "";
+		return "7c7b34c925680a4f83b2b974a89b59c6";
 	}
 	
 	public static String getAccessToken() {
