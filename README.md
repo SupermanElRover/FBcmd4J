@@ -1,5 +1,5 @@
 # FBcmd4J
-    <br>Uso de Facebook desde linea de comando</br>
+    Uso de Facebook desde linea de comando
 
 a.	Instalación
     <br>Descargar JAR y ejecutar por linea de comando "java -jar fbcmj4.jar"</br>
